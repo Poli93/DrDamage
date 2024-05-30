@@ -383,9 +383,9 @@ local mobArmor = {
 	--Veteran's Training Dummy (level 75)
 	[32543] = 8250,
 	--Grandmaster's Training Dummy (level 80)
-	[31144] = 9730,
+	[31144] = 10643,
 	--Ebon Knight's Training Dummy (level 80)
-	[32546] = 9730,
+	[32546] = 10643,
 }
 
 --Temporary tables
